@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=9D5CF7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+%5BYour+Name%5D;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=9D5CF7&center=true&vCenter=true&width=500&lines=Hey+There+Geeks!;I'm+%5BDeepak%5D;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -63,10 +63,10 @@
 ## 🎧 Currently Vibing To
 
 <div align="center">
-  ![Penguin Image](C:\Users\DEEPAK SHARMA\Downloads\pngegg.png)
+  <img src="https://github.com/Deepaksharma-11/Deepaksharma-11/blob/main/pngegg.png" />
 
   
-  "Old is Gold - 90's Bollywood"
+  <h2>"Old is Gold - 90's Bollywood" </h2>
 </div>
 
 ## 🌟 Fun Stats
