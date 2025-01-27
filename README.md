@@ -69,7 +69,8 @@
   <h2>"Old is Gold - 90's Bollywood" </h2>
 </div>
 
-## 🌟 Fun Stats
+
+## 🌟 Fun Stats:-     <p align="center"> The fisrt Programmer was a Women. </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepaksharma-11&label=Profile%20Views&color=9D5CF7&style=flat" alt="Profile Views" />
