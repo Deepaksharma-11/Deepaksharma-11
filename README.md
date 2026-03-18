@@ -70,7 +70,7 @@
 </div>
 
 
-## 🌟 Fun Stats:-     <p align="center"> The fisrt Programmer was a Women. </p>
+## 🌟 Fun Stats:-     <p align="center"> The first Programmer was a Women. </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepaksharma-11&label=Profile%20Views&color=9D5CF7&style=flat" alt="Profile Views" />
